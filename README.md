@@ -1,7 +1,8 @@
 # 🧩 LeetCode SQL Solutions<br/>
 
+![alt text](https://github.com/sushmaakg/Leet-Code-SQL/blob/main/LeetCode.png)
 
-> A collection of SQL solutions for LeetCode database problems, categorized by difficulty and topic.
+> A collection of my SQL solutions for LeetCode database problems, categorized by difficulty and topic.
 
 ---
 
